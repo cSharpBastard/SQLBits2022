@@ -1,0 +1,9 @@
+{
+	"name": "sqlbits-df",
+	"location": "westeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d7dc28d7-6902-4707-b662-baadd399ac03",
+		"tenantId": "7f34bc08-7585-4811-b5e3-124306325c55"
+	}
+}
